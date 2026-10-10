@@ -4,7 +4,7 @@
 Machine Learning Fundamentals (AIC354), Assignment 2: Developing an End-to-End Machine Learning System
 COMSATS University Islamabad, Lahore Campus
 
-**Live demo:** PASTE-YOUR-STREAMLIT-LINK-HERE
+**Live demo:** https://heartdiseaseprediction-omqtad3saltpkdqo4ayxtn.streamlit.app/
 
 An end-to-end binary classification system that predicts whether a patient has heart disease. It follows
 the same steps as the instructor's Titanic Passenger Survival Prediction System and is trained on the
